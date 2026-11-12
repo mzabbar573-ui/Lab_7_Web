@@ -76,6 +76,7 @@ Membuat program pengolahan data barang yang menerima nama barang, harga, dan jum
 
 Program menghitung subtotal berdasarkan harga dikalikan jumlah barang serta melakukan validasi input.
 
+## HASIL LATIHAN ##
 <img width="1279" height="601" alt="Screenshot 2026-11-12 110359" src="https://github.com/user-attachments/assets/14447b24-ab4a-4e10-99da-6b59376bd8f8" />
 <img width="1279" height="122" alt="Screenshot 2026-11-12 110514" src="https://github.com/user-attachments/assets/9b25f650-9c61-4dfd-8ec9-8284f96dfa6c" />
 
@@ -92,6 +93,7 @@ Data yang dimasukkan:
 
 Program dilengkapi validasi server-side untuk memastikan data yang dimasukkan sesuai ketentuan. Data yang valid akan ditampilkan kembali menggunakan `htmlspecialchars()`.
 
+## Hasil: Aplikasi dapat menerima, memvalidasi, dan menampilkan data mahasiswa.
 <img width="1279" height="667" alt="Screenshot 2026-11-12 112453" src="https://github.com/user-attachments/assets/bead3a41-ca5d-4afc-9575-9feb4fbe8614" />
 <img width="1274" height="669" alt="Screenshot 2026-11-12 112521" src="https://github.com/user-attachments/assets/fb9273ae-b11f-4762-a238-720cd189b4b1" />
 <img width="1279" height="667" alt="Screenshot 2026-11-12 112203" src="https://github.com/user-attachments/assets/b632e113-fcbb-4e78-9dc9-813610bf914d" />
